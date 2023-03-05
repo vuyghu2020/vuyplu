@@ -9,7 +9,7 @@
 
 
 
-module.exports = class vuyghu2020 {
+module.exports = class vuyplu {
     
     load(){
         console.log("[vuyplu] Load");
