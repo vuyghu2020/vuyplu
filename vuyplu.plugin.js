@@ -3,12 +3,13 @@
  * @version 0.0.1
  * @description vuyplu is a test plugin
  * @author elliot
- *   
+ * @authorId 919333035260924004
+ * 
  */
 
 
 
- module.exports = class vuyghu2020 {
+module.exports = class vuyghu2020 {
     
     load(){
         console.log("[vuyplu] Load");
